@@ -21,3 +21,5 @@ boots, open ```http://localhost:8080/auth``` and enter the initial admin user an
 6. You can then login to http://localhost:8080/auth/admin/ with your username and password.
 
 ## Usage
+
+WIP
